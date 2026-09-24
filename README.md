@@ -178,17 +178,22 @@ Pricing-related reasons are present among churned customers. The company should 
 ```text
 telco-customer-churn-analysis/
 │
+├── Dataset/
+│   └── telco_churn.csv
+│
 ├── SQL/
-│   ├── 01_Database_and_Table_Creation.sql
-│   ├── 02_Data_Transformation.sql
-│   └── 03_Churn_Analysis.sql
+│   ├── Database_and_Table_Creation.sql
+│   ├── Data_Transformation.sql
+│   └── Churn_Analysis.sql
 │
 ├── Documentation/
 │   └── Telco_Customer_Churn_Analysis.pdf
 │
 ├── images/
 │   ├── telco-customer-churn-thumbnail.png
-│   └── telco-churn-dashboard_1.jpg
+│   ├── telco-churn-dashboard_1.jpg
 │   └── telco-churn-dashboard_2.jpg
+│
+├── Customer_Churn_Analysis_Dashboard.pdf
 │
 └── README.md
