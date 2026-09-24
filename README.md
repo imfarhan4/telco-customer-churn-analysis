@@ -188,6 +188,7 @@ telco-customer-churn-analysis/
 │
 ├── images/
 │   ├── telco-customer-churn-thumbnail.png
-│   └── telco-churn-dashboard.png
+│   └── telco-churn-dashboard_1.jpg
+│   └── telco-churn-dashboard_2.jpg
 │
 └── README.md
