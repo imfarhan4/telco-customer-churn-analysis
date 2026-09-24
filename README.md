@@ -95,7 +95,8 @@ The SQL analysis was used to create an interactive Power BI dashboard for commun
 ## 📊 Power BI Dashboard
 
 <p align="center">
-  <img src="images/telco-churn-dashboard.png" width="900">
+  <img src="images/telco-churn-dashboard_1.jpg" width="900">
+  <img src="images/telco-churn-dashboard_2.jpg" width="900">
 </p>
 
 The dashboard focuses on:
